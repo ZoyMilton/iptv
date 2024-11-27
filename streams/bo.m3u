@@ -138,3 +138,13 @@ https://solo.disfrutaenlared.com:1936/vtvcanal/vtvcanal/playlist.m3u8
 http://190.104.15.135/0.ts
 #EXTINF:-1 tvg-id="XTOTV.bo",XTOTV (404p) [Not 24/7]
 http://www.channel.tevemi.com:1935/XtoTv/XtoTv/playlist.m3u8
+#EXTINF:-1 tvg-id="zoy.tv" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png",ZoyTV Bolivia (1920p)
+https://fl1004.bozztv.com/ssh101/zoytv/index.m3u8
+#EXTINF:-1 tvg-id="zoy.tv" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png",ZoyTV Turcas (1080p)
+https://fl1004.bozztv.com/ssh101/zoytvturcas/index.m3u8
+#EXTINF:-1 tvg-id="zoy.tv" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png",ZoyTV Sports 1 (1920p)
+https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
+#EXTINF:-1 tvg-id="zoy.tv" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png",ZoyTV Sports 2 (1920p)
+https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
+#EXTINF:-1 tvg-id="zoy.tv" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png",ZoyTV Sports 3 (1920p)
+https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
