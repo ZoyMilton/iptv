@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ ZoyTV Plus 🇧🇴 ☆",ZoyTV Turcas
+https://fl1004.bozztv.com/ssh101/zoytvturcas/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ ZoyTV Plus 🇧🇴 ☆",ZoyTV Plus
+https://fl1004.bozztv.com/ssh101/zoytv/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ ZoyTV Plus 🇧🇴 ☆",ZoyTV Kids
+https://fl1004.bozztv.com/ssh101/zoytvkids/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ ZoyTV Plus 🇧🇴 ☆",ZoyTV Family
+https://fl1004.bozztv.com/ssh101/zoytvfamily/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ ZoyTV Plus 🇧🇴 ☆",ZoyTV Music
+https://is.gd/aOam0G
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ ZoyTV Plus 🇧🇴 ☆",ZoyTV Sports 1 HD
+https://fl1004.bozztv.com/ssh101/zoytvsports/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ ZoyTV Plus 🇧🇴 ☆",ZoyTV Sports 2 HD
+https://fl1004.bozztv.com/ssh101/zoytvsports2/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ ZoyTV Plus 🇧🇴 ☆",ZoyTV Sports 3 HD
+https://fl1004.bozztv.com/ssh101/zoytvsports3/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ ZoyTV Plus 🇧🇴 ☆",ZoyTV Sports 4 HD
+https://fl1004.bozztv.com/ssh101/zoytvsports4/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/hxzjjS7/favicon.png" group-title="☆ ZoyTV Plus 🇧🇴 ☆",ZoyTV Sports 5 HD
+https://fl1004.bozztv.com/ssh101/zoytvsports5/index.m3u8
